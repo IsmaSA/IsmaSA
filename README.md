@@ -29,7 +29,7 @@ I am a PhD student at the Faculty of Fisheries and Water Protection at the Unive
 
 ## Time series database (Haase et al. 2023)
 
-- Dikerogammarus villosus (Soto et al. 2023): https://github.com/IsmaSA/Dikerogammarus-villosus-population-dynamics
+- Dikerogammarus villosus (Soto et al. 2023): [D.v](https://github.com/IsmaSA/Dikerogammarus-villosus-population-dynamics) 
 - Crayfish trends (Soto et al. 2023):
 - Ponto-Caspian species (Soto et al. 2023):
 - Sigmoidal curves (Soto et al., 2023):
