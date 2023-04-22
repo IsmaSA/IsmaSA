@@ -27,7 +27,7 @@ I am a PhD student at the Faculty of Fisheries and Water Protection at the Unive
 
 **Main proyects😄**
 
-#Time series database (Haase et al. 2023) 
+Time series database (Haase et al. 2023) 
 
 #InvaCost:
 
