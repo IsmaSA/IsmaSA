@@ -48,17 +48,18 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 
 
 ## Others related proyects:
--
--
--
+- Melina_snowcrab
+- Elza_amphipods
+- Serhan_Eufrates & Tigris
+- Cantabria
 
 ## Students
 ### Gwedaline Le Hen
 - Rhine river => [Le Hen et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723001018) 
 
 ### Mathieu Toutain
-- Diversity metrics (taxonomical):
-- Diversity metrics (functional):
+- Diversity metrics (taxonomical)
+- Diversity metrics (functional)
 
 ## Just codes
 - [Extraction of climatic data, Temperature and Precipitation](https://github.com/IsmaSA/extraction-climatic-data)
