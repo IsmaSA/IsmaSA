@@ -27,10 +27,35 @@ I am a PhD student at the Faculty of Fisheries and Water Protection at the Unive
 
 # **Main proyects😄**
 
-## Time series database (Haase et al. 2023) 
+## Time series database (Haase et al. 2023)
+
+- Dikerogammarus villosus (Soto et al. 2023):
+- Crayfish trends (Soto et al. 2023):
+- Ponto-Caspian species (Soto et al. 2023):
+- Sigmoidal curves (Soto et al., 2023):
+
 
 ## InvaCost:
+- Herpetofauna (Soto et al. 2022): 
+- Gastropods (Jiang et al. 2022):
+- Canals (Balzani et al. 2022):
+
 
 ## Others related proyects:
+-
+-
+-
+
+## Students
+### Gwedaline Le Hen
+- Rhine river:
+
+### Mathieu Toutain
+- Diversity metrics (taxonomical):
+- Diversity metrics (functional):
 
 ## Just codes
+- Extraction climatic data:
+- S-slopes (Pilotto et al. 2022):
+- Heat maps:
+-
