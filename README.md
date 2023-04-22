@@ -29,16 +29,16 @@ I am a PhD student at the Faculty of Fisheries and Water Protection at the Unive
 
 ## Time series database (Haase et al. 2023)
 
-- Dikerogammarus villosus (Soto et al. 2023): [D.v](https://github.com/IsmaSA/Dikerogammarus-villosus-population-dynamics) 
-- Crayfish trends (Soto et al. 2023):
-- Ponto-Caspian species (Soto et al. 2023):
-- Sigmoidal curves (Soto et al., 2023):
+- [Dikerogammarus villosus](https://github.com/IsmaSA/Dikerogammarus-villosus-population-dynamics) => [Soto et al. 2023](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13649)
+- Crayfish trends => [Soto et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723001523)
+- Ponto-Caspian species => [Soto et al. 2023](https://link.springer.com/article/10.1007/s10530-023-03060-0)
+- Sigmoidal curves => [Soto et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723004333)
 
 
 ## InvaCost:
-- Herpetofauna (Soto et al. 2022): 
-- Gastropods (Jiang et al. 2022):
-- Canals (Balzani et al. 2022):
+- Herpetofauna => [Soto et al. 2022](https://www.nature.com/articles/s41598-022-15079-9)
+- Gastropods => [Jiang et al. 2022](https://www.sciencedirect.com/science/article/pii/S1470160X22010871)
+- Canals => [Balzani et al. 2022](https://oceanrep.geomar.de/id/eprint/57481/)
 
 
 ## Others related proyects:
@@ -55,7 +55,10 @@ I am a PhD student at the Faculty of Fisheries and Water Protection at the Unive
 - Diversity metrics (functional):
 
 ## Just codes
-- Extraction climatic data:
+-[Extraction of climatic data, Temperature and Precipitation](https://github.com/IsmaSA/extraction-climatic-data)
 - S-slopes (Pilotto et al. 2022):
-- Heat maps:
--
+- 
+- [Heat maps](https://github.com/IsmaSA/Orthoptera-heat-maps)
+- 
+-[Loop to fill time series gaps (Species and abundance)](https://github.com/IsmaSA/Orthoptera-heat-maps)
+
