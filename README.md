@@ -57,7 +57,7 @@ I am a PhD student at the Faculty of Fisheries and Water Protection at the Unive
 - Diversity metrics (functional):
 
 ## Just codes
--[Extraction of climatic data, Temperature and Precipitation](https://github.com/IsmaSA/extraction-climatic-data)
+- [Extraction of climatic data, Temperature and Precipitation](https://github.com/IsmaSA/extraction-climatic-data)
 - [Extract Slopes](https://github.com/IsmaSA/Calculate-S_slope) from (Pilotto et al. 2022):
 - [Heat maps](https://github.com/IsmaSA/Orthoptera-heat-maps)
 - [Loop to fill time series gaps (Species and abundance)](https://github.com/IsmaSA/Orthoptera-heat-maps)
