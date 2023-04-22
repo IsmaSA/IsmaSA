@@ -37,8 +37,8 @@ I am a PhD student at the Faculty of Fisheries and Water Protection at the Unive
 
 ## InvaCost:
 - Herpetofauna => [Soto et al. 2022](https://www.nature.com/articles/s41598-022-15079-9)
-- Gastropods => [Jiang et al. 2022](https://www.sciencedirect.com/science/article/pii/S1470160X22010871)
-- Canals => [Balzani et al. 2022](https://oceanrep.geomar.de/id/eprint/57481/)
+- [Gastropods](https://github.com/IsmaSA/Gastropods)  => [Jiang et al. 2022](https://www.sciencedirect.com/science/article/pii/S1470160X22010871)
+- [Canals](https://github.com/IsmaSA/Canal-topic)  => [Balzani et al. 2022](https://oceanrep.geomar.de/id/eprint/57481/)
 - [Marine species](https://github.com/IsmaSA/Marine-InvaCost-species) => [Cuthbert et al. 2023](http://digital.ecomagazine.com/publication/?i=767474&p=44&view=issueViewer)
 - [Domestic species](https://github.com/IsmaSA/Domestic-InvaCost-topic) 
 
