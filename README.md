@@ -12,7 +12,7 @@ Twitter: https://twitter.com/ismasoto
 Orcid: https://orcid.org/0000-0002-7288-6336
 
 
-**Background:**
+## **Background:**
 
 I am a PhD student at the Faculty of Fisheries and Water Protection at the University of South Bohemia in Ceske Budejovice (USB). My research is focused on trends and impacts of invasive species. I have a special interest in data cleaning and different modeling approaches such as GLMs, GAMs and meta-analytcal approach.
 
@@ -25,10 +25,10 @@ I am a PhD student at the Faculty of Fisheries and Water Protection at the Unive
 | Czech      | =>            |
   
 
-**Main proyects😄**
+# **Main proyects😄**
 
-Time series database (Haase et al. 2023) 
+## Time series database (Haase et al. 2023) 
 
-#InvaCost:
+## InvaCost:
 
-#Others related proyects:
+## Others related proyects:
