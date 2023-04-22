@@ -16,6 +16,10 @@ Email: isma-sa@hotmail.com
 
 I am a PhD student at the Faculty of Fisheries and Water Protection at the University of South Bohemia in Ceske Budejovice (USB). My research is focused on trends and impacts of invasive species. I have a special interest in data cleaning and different modeling approaches such as GLMs, GAMs and meta-analytcal approach.
 
+### PhD thesis: Long term trends and impacts of invasive alien species in Europe
+
+Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasivespecies), [Antonín Kouba](https://www.jcu.cz/cz/univerzita/lide/clovek?identita=KOUBA_Antonin_32859) & [Ross N. Cuthbert](https://pure.qub.ac.uk/en/persons/ross-cuthbert-2) 
+
 
 | Languages  |     Level     |
 |----------: |---------------|
@@ -50,7 +54,7 @@ I am a PhD student at the Faculty of Fisheries and Water Protection at the Unive
 
 ## Students
 ### Gwedaline Le Hen
-- Rhine river:
+- Rhine river => [Le Hen et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723001018) 
 
 ### Mathieu Toutain
 - Diversity metrics (taxonomical):
@@ -58,7 +62,7 @@ I am a PhD student at the Faculty of Fisheries and Water Protection at the Unive
 
 ## Just codes
 - [Extraction of climatic data, Temperature and Precipitation](https://github.com/IsmaSA/extraction-climatic-data)
-- [Extract Slopes](https://github.com/IsmaSA/Calculate-S_slope) from (Pilotto et al. 2022):
+- [Extract Slopes](https://github.com/IsmaSA/Calculate-S_slope) from (Pilotto et al. 2022)
 - [Heat maps](https://github.com/IsmaSA/Orthoptera-heat-maps)
 - [Loop to fill time series gaps (Species and abundance)](https://github.com/IsmaSA/Orthoptera-heat-maps)
 
