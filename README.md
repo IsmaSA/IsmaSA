@@ -37,6 +37,7 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 - [Crayfish trends](https://github.com/IsmaSA/Crayfish-trends)  => [Soto et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723001523)
 - [Ponto-Caspian](https://github.com/IsmaSA/Ponto-Caspian)  => [Soto et al. 2023](https://link.springer.com/article/10.1007/s10530-023-03060-0)
 - [Sigmoidal Curves](https://github.com/IsmaSA/Sigmoidal-curves)  => [Soto et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723004333)
+- [Zebra mussel trends](https://github.com/IsmaSA/Dreissena-polymorpha)
 
 
 ## InvaCost:
