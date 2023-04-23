@@ -1,15 +1,9 @@
 ---
 > Data science is the sexiest job of the 21st century
 
-Email: isma-sa@hotmail.com
+Email: isma-sa@hotmail.com 
 
-[ResearchGate](https://www.researchgate.net/profile/Ismael-Soto-4)   
-
-[Google Scholar](https://scholar.google.com/citations?user=y3nT7tkAAAAJ&hl=es)  
-
-[Twitter](https://twitter.com/ismasoto) 
-
-[Orcid](https://orcid.org/0000-0002-7288-6336) 
+[ResearchGate](https://www.researchgate.net/profile/Ismael-Soto-4) | [Google Scholar](https://scholar.google.com/citations?user=y3nT7tkAAAAJ&hl=es) | [Twitter](https://twitter.com/ismasoto) | [Orcid](https://orcid.org/0000-0002-7288-6336) 
 
 
 ## **Background:**
