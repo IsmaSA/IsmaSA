@@ -43,7 +43,7 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 
 
 ## Species Distribution Models (SDMs)
--
+- [SDM Course Evora 2022](https://github.com/IsmaSA/SDM_course/tree/master) 
 -
 
 ## Functional responses (FR)
