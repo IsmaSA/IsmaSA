@@ -20,7 +20,7 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 | <img src="https://cdn.countryflags.com/thumbs/spain/flag-400.png" width="35"/>    | ============> |
 | <img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png" width="35"/>     | ========>     |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/800px-Flag_of_Portugal.svg.png" alt="Portuguese Flag" width="35"/> | =====>        |
-|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/800px-Flag_of_the_Czech_Republic.svg.png" alt="Czech Flag" width="35"/>   | =>            |
+|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/800px-Flag_of_the_Czech_Republic.svg.png" alt="Czech Flag" width="35"/>   | ==>            |
   
 
 # **Main proyects😄**
