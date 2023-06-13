@@ -34,7 +34,7 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 - [Zebra mussel trends](https://github.com/IsmaSA/Dreissena-polymorpha)
 
 
-## InvaCost:
+## InvaCost [Diagne et al. 2020](https://www.nature.com/articles/s41597-020-00586-z): 
 - [Herpetofauna](https://github.com/IsmaSA/Herpetofauna-)  => [Soto et al. 2022](https://www.nature.com/articles/s41598-022-15079-9)
 - [Gastropods](https://github.com/IsmaSA/Gastropods)  => [Jiang et al. 2022](https://www.sciencedirect.com/science/article/pii/S1470160X22010871)
 - [Canals](https://github.com/IsmaSA/Canal-topic)  => [Balzani et al. 2022](https://oceanrep.geomar.de/id/eprint/57481/)
