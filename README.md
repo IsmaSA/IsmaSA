@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsmaSA" alt="IsmaSA" /> </p>
 
-[ResearchGate](https://www.researchgate.net/profile/Ismael-Soto-4) | [Google Scholar](https://scholar.google.com/citations?user=y3nT7tkAAAAJ&hl=es) | [Twitter](https://twitter.com/ismasoto) | [Orcid](https://orcid.org/0000-0002-7288-6336) 
-
 
 ## **Background:**
 
