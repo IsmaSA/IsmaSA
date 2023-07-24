@@ -1,5 +1,12 @@
 ---
 > Data science is the sexiest job of the 21st century
+
+<a href="https://github.com/IsmaSA"><img alt="GitHub followers" src="https://img.shields.io/github/followers/IsmaSA?label=Github&style=social"></a> 
+<a href="https://twitter.com/ismasoto"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ismasoto?label=Twitter&style=social"> 
+[![Research Gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=social&logo=researchgate&logoColor=brown&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Ismael-Soto-4) 
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=social&logo=googlescholar&logoColor=blue&colorB=2E7DEF&labelColor=2ECFEF)](https://scholar.google.com/citations?user=y3nT7tkAAAAJ&hl=es) 
+[![ORCID](https://img.shields.io/badge/-ORCID-green.svg?style=social&logo=orcid&logoColor=green&colorB=71DA0E&labelColor=0EDA11)](https://orcid.org/0000-0002-7288-6336)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsmaSA" alt="IsmaSA" /> </p>
 
 [ResearchGate](https://www.researchgate.net/profile/Ismael-Soto-4) | [Google Scholar](https://scholar.google.com/citations?user=y3nT7tkAAAAJ&hl=es) | [Twitter](https://twitter.com/ismasoto) | [Orcid](https://orcid.org/0000-0002-7288-6336) 
