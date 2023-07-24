@@ -1,7 +1,7 @@
 ---
 > Data science is the sexiest job of the 21st century
 
-<a href="https://github.com/IsmaSA"><img alt="GitHub followers" src="https://img.shields.io/github/followers/IsmaSA?label=Github&style=social"></a> 
+
 <a href="https://twitter.com/ismasoto"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ismasoto?label=Twitter&style=social"> 
 [![Research Gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=social&logo=researchgate&logoColor=brown&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Ismael-Soto-4) 
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=social&logo=googlescholar&logoColor=blue&colorB=2E7DEF&labelColor=2ECFEF)](https://scholar.google.com/citations?user=y3nT7tkAAAAJ&hl=es) 
