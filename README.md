@@ -9,6 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsmaSA" alt="IsmaSA" /> </p>
 
+[<img target="_blank" alt="Ismael Soto | Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+
+[mail]: mailto:isma-sa@hotmail.com
 
 ## **Background:**
 
