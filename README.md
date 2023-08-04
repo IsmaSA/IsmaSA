@@ -15,11 +15,12 @@
 
 ## **Background:**
 
-I am a PhD student at the Faculty of Fisheries and Water Protection at the University of South Bohemia in Ceske Budejovice (USB). My research is focused on trends and impacts of invasive species. I have a special interest in data cleaning and different modeling approaches such as GLMs, GAMs and meta-analytcal approach.
+I am a PhD candidate at the University of South Bohemia's Faculty of Fisheries and Water Protection, based in Ceske Budejovice (USB). My research primarily revolves around investigating the trends and impacts of invasive species. An integral part of my work involves leveraging the principles of data science, with a particular emphasis on data cleaning and various modeling approaches. I specialize in employing Generalized Linear Models (GLMs), Generalized Additive Models (GAMs), and meta-analytical methods to interpret complex data sets and generate insightful conclusions. This integrative and analytical approach allows for a comprehensive understanding of the patterns and effects of invasive species.
 
-### PhD thesis: Long term trends and impacts of invasive alien species in Europe
 
-Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasivespecies), [Antonín Kouba](https://www.jcu.cz/cz/univerzita/lide/clovek?identita=KOUBA_Antonin_32859) & [Ross N. Cuthbert](https://pure.qub.ac.uk/en/persons/ross-cuthbert-2) 
+### Ph.D. thesis: Long-term trends and impacts of invasive species in Europe
+
+Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasivespecies) & [Antonín Kouba](https://www.jcu.cz/cz/univerzita/lide/clovek?identita=KOUBA_Antonin_32859) 
 
 
 | Languages  |     Level     |
@@ -70,8 +71,7 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 - Rhine river => [Le Hen et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723001018) 
 
 ### Mathieu Toutain
-- Diversity metrics (taxonomical)
-- Diversity metrics (functional)
+- Diversity metrics 
 
 
 ## Just codes
