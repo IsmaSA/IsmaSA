@@ -32,7 +32,7 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
   
 **Highlight:**
 
-<img align="right" src="Icon/g2.png" width="100" style="margin-top: 10px">
+<img align="right" src="Icon/g2.png" width="100" style="margin-top: 50px">
 
 - [SpainIAS - package under develop](https://github.com/IsmaSA/SpainIAS/tree/master)
   
