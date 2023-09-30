@@ -53,7 +53,8 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 - [Gastropods](https://github.com/IsmaSA/Gastropods)  => [Jiang et al. 2022](https://www.sciencedirect.com/science/article/pii/S1470160X22010871)
 - [Canals](https://github.com/IsmaSA/Canal-topic)  => [Balzani et al. 2022](https://oceanrep.geomar.de/id/eprint/57481/)
 - [Marine species](https://github.com/IsmaSA/Marine-InvaCost-species) => [Cuthbert et al. 2023](http://digital.ecomagazine.com/publication/?i=767474&p=44&view=issueViewer)
-- [Domestic species](https://github.com/IsmaSA/Domestic-InvaCost-topic) 
+- [Domestic species](https://github.com/IsmaSA/Domestic-InvaCost-topic) => Soto et al.
+- [Aquaculture](https://github.com/IsmaSA/Aquaculture) => Oficialdegui et al. 
 
 
 ## Species Distribution Models (SDMs)
