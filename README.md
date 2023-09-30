@@ -47,6 +47,7 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 - [Sigmoidal Curves](https://github.com/IsmaSA/Sigmoidal-curves)  => [Soto et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723004333)
 - [Zebra mussel trends](https://github.com/IsmaSA/Dreissena-polymorpha)
 
+<img align="right" src="Icons/InvaCostLogoIdea10.jpg" width="150" style="margin-top: 40px"> 
 
 ## InvaCost [Diagne et al. 2020](https://www.nature.com/articles/s41597-020-00586-z): 
 - [Herpetofauna](https://github.com/IsmaSA/Herpetofauna-)  => [Soto et al. 2022](https://www.nature.com/articles/s41598-022-15079-9)
