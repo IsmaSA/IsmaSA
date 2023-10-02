@@ -22,6 +22,11 @@ I am a PhD candidate at the University of South Bohemia's Faculty of Fisheries a
 
 Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasivespecies) & [Antonín Kouba](https://www.jcu.cz/cz/univerzita/lide/clovek?identita=KOUBA_Antonin_32859) 
 
+## My research:
+<img align="center" src="Icon/Rplot11.png" width="500" style="margin-top: 200px"> <img align="center" src="Icon/surface91.png" width="500" style="margin-top: 200px">
+
+
+
 
 | Languages  |     Level     |
 |----------: |---------------|
