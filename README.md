@@ -72,10 +72,9 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 
 ## Others related proyects:
 - [Salmonids trends in Cantabria](https://github.com/IsmaSA/Salmonids-trends-Cantabria) => [Soto et al. 2023](https://onlinelibrary.wiley.com/doi/full/10.1002/iroh.202302146)
-- [Euphrates & Tigris](https://github.com/IsmaSA/Euphrates-Tigris) 
+- [Euphrates & Tigris](https://github.com/IsmaSA/Euphrates-Tigris)
+- [Amphipods_Kiel](https://github.com/IsmaSA/Amphipods_Kiel) 
 - Melina_snowcrab
-- Elza_amphipods
-
 
 
 ## Students
