@@ -22,19 +22,21 @@ I am a PhD candidate at the University of South Bohemia's Faculty of Fisheries a
 
 Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasivespecies) & [Antonín Kouba](https://www.jcu.cz/cz/univerzita/lide/clovek?identita=KOUBA_Antonin_32859) 
 
-## My research:
+# **Papers 2024:**
+
+| **Title** | **Reference** | **Journal** | **Citations** | **DOI - Link** | **Repository** |
+|-----------|------------------|-------------|---------------|------------------------|-----------|
+| Economic impact disharmony in global biological invasions | Cuthbert et al. | [Science of the Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment) | [![Citations](https://img.shields.io/badge/Citations-0-purple)](https://www.sciencedirect.com/science/article/pii/S0048969723082529) | [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2023.0082529-blue)](https://doi.org/10.1016/j.scitotenv.2023.0082529) | NA |
+| The wild cost of invasive feral animals worldwide | Soto et al. | [Science of the Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment) | [![Citations](https://img.shields.io/badge/Citations-0-purple)](https://www.sciencedirect.com/science/article/abs/pii/S0048969723079111) | [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2023.079111-blue)](https://doi.org/10.1016/j.scitotenv.2023.079111) | [![Repository](https://img.shields.io/badge/Repository-brightgreen)](https://github.com/IsmaSA/Domestic-InvaCost-topic) |
+| Assessing the potential phytosanitary threat of the house cricket *Acheta domesticus* | Kulessa et al. | [Science of the Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment) | [![Citations](https://img.shields.io/badge/Citations-0-purple)](https://www.sciencedirect.com/science/article/pii/S0048969724005114) | [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2024.005114-blue)](https://doi.org/10.1016/j.scitotenv.2024.005114) | [![Repository](https://img.shields.io/badge/Repository-brightgreen)](https://github.com/IsmaSA/Functional-Response-Anna) | Understanding the complex dynamics of zebra mussel invasions over several decades in European rivers: drivers, impacts and predictions | Haubrock et al. | [OIKOS](https://www.oikosjournal.org/) | [![Citations](https://img.shields.io/badge/Citations-1-purple)](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/oik.10283) | [![DOI](https://img.shields.io/badge/DOI-10.1111%2F.oik.10283-blue)](https://doi.org/10.1016/j.scitotenv.2023.079111) | [![Repository](https://img.shields.io/badge/Repository-brightgreen)](https://github.com/IsmaSA/Domestic-InvaCost-topic) | 
+| Tracking long-term shifts in non-native freshwater macroinvertebrates across three European countries | Toutain et al. | [Science of the Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment) | [![Citations](https://img.shields.io/badge/Citations-0-purple)](https://www.sciencedirect.com/science/article/pii/S0048969723082529) | [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2023.167402-blue)](https://doi.org/10.1016/j.scitotenv.2023.167402) | NA |
+
+-------------------------------------------------------------------------------------------------------------
+https://doi.org/10.1016/j.scitotenv.2023.167402
+## Summary of my research:
 <img align="center" src="Icon/Rplot11.png" width="400" style="margin-top: 200px"> <img align="center" src="Icon/surface91.png" width="400" style="margin-top: 200px">
 
 
-
-
-| Languages  |     Level     |
-|----------: |---------------|
-| <img src="https://cdn.countryflags.com/thumbs/spain/flag-400.png" width="35"/>    | ============> |
-| <img src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-400.png" width="35"/>     | ========>     |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/800px-Flag_of_Portugal.svg.png" alt="Portuguese Flag" width="35"/> | =====>        |
-|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/800px-Flag_of_the_Czech_Republic.svg.png" alt="Czech Flag" width="35"/>   | ==>            |
-  
 **Highlight:**
 
 <img align="right" src="Icon/g2.png" width="100" style="margin-top: 50px">
