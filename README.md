@@ -39,7 +39,7 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 | 11 | Determining environmental drivers of global mud snail invasions using climate and hydroclimate models | Aksu et al. |<img align="right" src="Icon/hydro.jpg" width="100" style="margin-top: 50px"> | [![Citations](https://img.shields.io/badge/Citations-0-purple)](https://link.springer.com/article/10.1007/s10750-024-05554-x) | [![DOI](https://img.shields.io/badge/DOI-10.1007/s1075002405554-blue)](https://link.springer.com/article/10.1007/s10530-023-03184-3) | NA  |
 | 12 | Substantial unrealised global biodiversity of continental microcrustaceans | Macêdo et al. |<img src="https://www.mta.ca/dmf/demos/j_plankton_res_cover.jpg" width="70" alt="plankton"> | NA | [![DOI](https://img.shields.io/badge/DOI-10.1007/s1075002405554-blue)](10.1093/plankt/fbae020) | NA  |
 | 13 | Sustained ecological impacts of invasive crayfish following claw injury | Soto et al. |NA | NA | NA | NA  |
-| 14 | Decadal-scale regional variability in monitoring efforts significantly influences fish diversity trends in the Euphrates and Tigris catchments, Türkiye | ayçelebi et al. |NA | NA | NA | NA  |
+| 14 | Decadal-scale regional variability in monitoring efforts significantly influences fish diversity trends in the Euphrates and Tigris catchments, Türkiye | Bayçelebi et al. |NA | NA | NA | NA  |
 -------------------------------------------------------------------------------------------------------------
 ## Summary of my research:
 <img align="center" src="Icon/Rplot11.png" width="400" style="margin-top: 200px"> <img align="center" src="Icon/surface91.png" width="400" style="margin-top: 200px">
