@@ -1,10 +1,3 @@
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismasa&show_icons=true&locale=en&layout=compact" alt="ismasa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismasa&show_icons=true&locale=en" alt="ismasa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismasa&" alt="ismasa" /></p>
-
 ---
 > Data science is the sexiest job of the 21st century
 
@@ -19,6 +12,7 @@
 [<img target="_blank" alt="Ismael Soto | Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
 [mail]: mailto:isma-sa@hotmail.com
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismasa" alt="ismasa" /></a> </p>
 
 ## **Background:**
 
