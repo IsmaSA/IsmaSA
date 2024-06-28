@@ -1,3 +1,36 @@
+
+all_GBIF <- data.frame()
+counter<- 1
+files <- list.files(pattern = ".zip")
+target_file <- "occurrence.txt"
+i <- files[1]
+
+for(i in files){
+  unzipped_files <- unzip(i, list = TRUE)
+  if(target_file %in% unzipped_files$Name) {
+    unzip(i, files = target_file)
+    
+    occurrence_data <- fread(target_file)
+  } else {
+    print(paste("NA"))
+  }
+  names(occurrence_data)
+  
+  cols_need <- c("species","acceptedTaxonKey","year", "occurrenceStatus","basisOfRecord","hasCoordinate","decimalLatitude", "decimalLongitude",
+                 "coordinateUncertaintyInMeters","coordinatePrecision","countryCode")
+  occurrence_data1 <- occurrence_data[, ..cols_need]
+  
+  missing_columns <- setdiff(cols_need, names(occurrence_data1))
+  for (col in missing_columns) {
+    occurrence_data1[, (col) := NA]  
+  }
+  all_GBIF <- rbind(all_GBIF, occurrence_data1)
+  cat( counter, "/", length(files), "\n")
+  counter<- counter + 1
+}
+unique(all_GBIF$species)
+unique(all_GBIF$basisOfRecord)
+
 ---
 > Data science is the sexiest job of the 21st century
 
