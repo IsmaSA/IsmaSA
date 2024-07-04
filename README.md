@@ -1,6 +1,6 @@
 
 ---
-> Data science is the sexiest job of the 21st century
+> In God we trust, all others bring data.
 
 
 <a href="https://twitter.com/ismasoto"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ismasoto?label=Twitter&style=social"> 
