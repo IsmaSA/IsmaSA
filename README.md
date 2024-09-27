@@ -1,33 +1,4 @@
 
-library(rvest)
-library
-
-url <- "http://www.corpi.ku.lt/databases/index.php/aquanis/species/view/id/"
-counter <- 1
-res<- data.frame()
-for(i in 1:90000) {
-  
-  url2 <- paste0(url, i)
-  
-  page <- read_html(url2)
-  if(is.null(page)) {next }
-  
-  page2 <- html_text(page)
-  text_clean <- str_squish(page2)
-  extracted_text <- str_extract(text_clean, "(?<=Distribution:).*?(?=Introduced)")
-  extracted_text <- str_trim(extracted_text)
-  
-  sp <- str_extract(text_clean, "(?<=Genus:).*")
-  clean_sp <- str_extract(sp, "^[^()]+")  %>% str_trim()
-  final_sp <- str_remove(clean_sp, "^\\S+\\s+")
-  
-  res<- rbind(res, data.frame(Species =final_sp, Range = extracted_text))
-  cat(counter, "/", 900000, "\n")
-  counter <- counter + 1 
-}
-
-
-
 ---
 > In God we trust, all others bring data.
 
