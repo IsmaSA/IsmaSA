@@ -39,8 +39,6 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 
 -------------------------------------------------------------------------------------------------------------
 
-|<img align="right" src="Icon/brv_.jpg" width="100" style="margin-top: 50px">
-<img src="Icon/GCB.jpg" width="70" alt="plankton">
 
 ## Summary of my research:
 <img align="center" src="Icon/Rplot11.png" width="400" style="margin-top: 200px"> <img align="center" src="Icon/surface91.png" width="400" style="margin-top: 200px">
