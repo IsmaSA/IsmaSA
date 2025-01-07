@@ -2,13 +2,14 @@
 ---
 > In God we trust, all others bring data.
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 
 <a href="https://twitter.com/ismasoto"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ismasoto?label=Twitter&style=social"> 
 [![Research Gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=social&logo=researchgate&logoColor=brown&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Ismael-Soto-4) 
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue.svg?style=social&logo=googlescholar&logoColor=blue&colorB=2E7DEF&labelColor=2ECFEF)](https://scholar.google.com/citations?user=y3nT7tkAAAAJ&hl=es) 
 [![ORCID](https://img.shields.io/badge/-ORCID-green.svg?style=social&logo=orcid&logoColor=green&colorB=71DA0E&labelColor=0EDA11)](https://orcid.org/0000-0002-7288-6336)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IsmaSA" alt="IsmaSA" /> </p>
 
 [<img target="_blank" alt="Ismael Soto | Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
