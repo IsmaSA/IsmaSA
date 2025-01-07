@@ -35,63 +35,12 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 | 4      | **N/A**                                                                    | **N/A**                                                       | **N/A**                                           |
 | 5      | **N/A**                                                                    | **N/A**                                                       | **N/A**                                           |
 
-
-
-
 -------------------------------------------------------------------------------------------------------------
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
-## Summary of my research:
-<img align="center" src="Icon/Rplot11.png" width="400" style="margin-top: 200px"> <img align="center" src="Icon/surface91.png" width="400" style="margin-top: 200px">
-
-**Highlight:**
-
-<img align="right" src="Icon/g2.png" width="100" style="margin-top: 50px">
-
-- [SpainIAS - package under develop](https://github.com/IsmaSA/SpainIAS/tree/master)  
-
-
-# **Main proyects😄**
-
-## Time series database (Haase et al. 2023)
-
-- [Dikerogammarus villosus](https://github.com/IsmaSA/Dikerogammarus-villosus-population-dynamics) => [Soto et al. 2023](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13649)
-- [Crayfish trends](https://github.com/IsmaSA/Crayfish-trends)  => [Soto et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723001523)
-- [Ponto-Caspian](https://github.com/IsmaSA/Ponto-Caspian)  => [Soto et al. 2023](https://link.springer.com/article/10.1007/s10530-023-03060-0)
-- [Sigmoidal Curves](https://github.com/IsmaSA/Sigmoidal-curves)  => [Soto et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723004333)
-- [Zebra mussel trends](https://github.com/IsmaSA/Dreissena-polymorpha)
-
-<img align="right" src="Icon/InvaCostLogoIdea10.jpg" width="150" style="margin-top: 40px"> 
-
-## InvaCost [Diagne et al. 2020](https://www.nature.com/articles/s41597-020-00586-z): 
-- [Herpetofauna](https://github.com/IsmaSA/Herpetofauna-)  => [Soto et al. 2022](https://www.nature.com/articles/s41598-022-15079-9)
-- [Gastropods](https://github.com/IsmaSA/Gastropods)  => [Jiang et al. 2022](https://www.sciencedirect.com/science/article/pii/S1470160X22010871)
-- [Canals](https://github.com/IsmaSA/Canal-topic)  => [Balzani et al. 2022](https://oceanrep.geomar.de/id/eprint/57481/)
-- [Marine species](https://github.com/IsmaSA/Marine-InvaCost-species) => [Cuthbert et al. 2023](http://digital.ecomagazine.com/publication/?i=767474&p=44&view=issueViewer)
-- [Domestic species](https://github.com/IsmaSA/Domestic-InvaCost-topic) => Soto et al.
-- [Aquaculture](https://github.com/IsmaSA/Aquaculture) => Oficialdegui et al. 
-
-
-## Species Distribution Models (SDMs)
-- [SDM Course Evora 2022](https://github.com/IsmaSA/SDM_course/tree/master) 
-- [Biomod example](https://github.com/IsmaSA/Biomod-package-example) 
-
-## Functional responses (FR)
-- [Claws experiment during summer school 2022](https://github.com/IsmaSA/Functional_responses) 
-
-## Others related proyects:
-- [Salmonids trends in Cantabria](https://github.com/IsmaSA/Salmonids-trends-Cantabria) => [Soto et al. 2023](https://onlinelibrary.wiley.com/doi/full/10.1002/iroh.202302146)
-- [Euphrates & Tigris](https://github.com/IsmaSA/Euphrates-Tigris)
-- [Amphipods_Kiel](https://github.com/IsmaSA/Amphipods_Kiel) 
-- Melina_snowcrab
-
-
-## Students
-### Gwedaline Le Hen
-- Rhine river => [Le Hen et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723001018) 
-
-### Mathieu Toutain
-- Tracking long-term shifts in non-native freshwater macroinvertebrates => [Toutain et al. 2023](https://www.sciencedirect.com/science/article/abs/pii/S0048969723060291) 
 
 
 ## Just codes
