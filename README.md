@@ -16,6 +16,7 @@
 [mail]: mailto:isma-sa@hotmail.com
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismasa" alt="ismasa" /></a> </p>
 
+
 ## **Background:**
 
 I am a PhD candidate at the University of South Bohemia's Faculty of Fisheries and Water Protection, based in Ceske Budejovice (USB). My research primarily revolves around investigating the trends and impacts of invasive species. An integral part of my work involves leveraging the principles of data science, with a particular emphasis on data cleaning and various modeling approaches. I specialize in employing Generalized Linear Models (GLMs), Generalized Additive Models (GAMs), and meta-analytical methods to interpret complex data sets and generate insightful conclusions. This integrative and analytical approach allows for a comprehensive understanding of the patterns and effects of invasive species.
@@ -27,13 +28,13 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 
 # **Top-5 Scientific Publications**
 
-| **ID** | **Title**                                                                  | **Journal**                                                   | **DOI**                                           |
-|--------|----------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------|
-| 1      | *Taming the terminological tempest in invasion science*                   | <img align="right" src="Icon/brv_.jpg" width="100" style="margin-top: 50px"> | [🔗 DOI: 10.1111/brv.13071](https://doi.org/10.1111/brv.13071)        |
-| 2      | *Divergent temporal responses of native macroinvertebrate communities to biological invasions* | <img src="Icon/GCB.jpg" width="100" alt="GCB Logo">             | [🔗 DOI: 10.1111/gcb.17521](https://doi.org/10.1111/gcb.17521)         |
-| 3      | *Biological invasions are a population‐level rather than a species‐level phenomenon* | <img src="Icon/GCB.jpg" width="100" alt="GCB Logo">             | [🔗 DOI: 10.1111/gcb.17312](https://doi.org/10.1111/gcb.17312)         |
-| 4      | **N/A**                                                                    | **N/A**                                                       | **N/A**                                           |
-| 5      | **N/A**                                                                    | **N/A**                                                       | **N/A**                                           |
+| **ID** | **Title**                                          |    **Summary**                  | **Journal**                                                   | **DOI**                                           |
+|--------|----------------------------------------------------|------------------------|----------------------------------------------------------------|--------------------------------------------------|
+| 1      | *Taming the terminological tempest in invasion science*                   | Review of terminology use in Invasion Science |<img align="right" src="Icon/brv_.jpg" width="100" style="margin-top: 50px"> | [🔗 DOI: 10.1111/brv.13071](https://doi.org/10.1111/brv.13071)        |
+| 2      | *Divergent temporal responses of native macroinvertebrate communities to biological invasions* | Change in the temporal response of native macroinvertebrates |<img src="Icon/GCB.jpg" width="100" alt="GCB Logo">             | [🔗 DOI: 10.1111/gcb.17521](https://doi.org/10.1111/gcb.17521)         |
+| 3      | *Biological invasions are a population‐level rather than a species‐level phenomenon* | Moving from "species" to population level |<img src="Icon/GCB.jpg" width="100" alt="GCB Logo">             | [🔗 DOI: 10.1111/gcb.17312](https://doi.org/10.1111/gcb.17312)         |
+| 4      | **N/A**                                                          |          | **N/A**                                                       | **N/A**                                           |
+| 5      | **N/A**                                                            |        | **N/A**                                                       | **N/A**                                           |
 
 -------------------------------------------------------------------------------------------------------------
 
