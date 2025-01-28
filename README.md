@@ -16,6 +16,10 @@
 [mail]: mailto:isma-sa@hotmail.com
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismasa" alt="ismasa" /></a> </p>
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 
 ## **Background:**
 
@@ -38,9 +42,7 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 
 -------------------------------------------------------------------------------------------------------------
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
 
 
 
