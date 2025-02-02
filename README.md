@@ -14,7 +14,11 @@
 [<img target="_blank" alt="Ismael Soto | Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
 [mail]: mailto:isma-sa@hotmail.com
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismasa" alt="ismasa" /></a> </p>
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=IsmaSA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=IsmaSA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -41,15 +45,26 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 | 5      | **N/A**                                                            |        | **N/A**                                                       | **N/A**                                           |
 -------------------------------------------------------------------------------------------------------------
 
+### ✍️ Random  Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IsmaSA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-## Just codes
+### Just codes
 - [European rivers](https://github.com/IsmaSA/European-Rivers-from-milos_agathon) 
 - [Extraction of climatic data, Temperature and Precipitation](https://github.com/IsmaSA/extraction-climatic-data)
 - [Web scrapping using RSelenium](https://github.com/IsmaSA/Web_scrapping/tree/master)
 - [Extract Slopes](https://github.com/IsmaSA/Calculate-S_slope) from (Pilotto et al. 2022)
 - [Heat maps](https://github.com/IsmaSA/Orthoptera-heat-maps)
 - [Loop to fill time series gaps (Species and abundance)](https://github.com/IsmaSA/Fill-time-series-gaps)
+
+
+
+
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=IsmaSA&icon=6&color=0)](https://visitcount.itsvg.in)
 
