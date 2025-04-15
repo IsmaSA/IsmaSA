@@ -28,7 +28,7 @@
 
 ### **Background:**
 
-I am a PhD candidate at the University of South Bohemia's Faculty of Fisheries and Water Protection, based in Ceske Budejovice (USB). My research primarily revolves around investigating the trends and impacts of invasive species. An integral part of my work involves leveraging the principles of data science, with a particular emphasis on data cleaning and various modeling approaches. I specialize in employing Generalized Linear Models (GLMs), Generalized Additive Models (GAMs), and meta-analytical methods to interpret complex data sets and generate insightful conclusions. This integrative and analytical approach allows for a comprehensive understanding of the patterns and effects of invasive species.
+Researcher at the University of South Bohemia's Faculty of Fisheries and Water Protection, based in Ceske Budejovice (USB). My research primarily revolves around investigating the trends and impacts of invasive species. An integral part of my work involves leveraging the principles of data science, with a particular emphasis on data cleaning and various modeling approaches. I specialize in employing Generalized Linear Models (GLMs), Generalized Additive Models (GAMs), and meta-analytical methods to interpret complex data sets and generate insightful conclusions. This integrative and analytical approach allows for a comprehensive understanding of the patterns and effects of invasive species.
 
 
 #### Ph.D. thesis: Long-term trends and impacts of invasive species in Europe
