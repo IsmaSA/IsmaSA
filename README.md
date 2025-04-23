@@ -49,8 +49,6 @@ Supervisors: [Phillip J. Haubrock](https://philliphaubrock.wixsite.com/invasives
 ### ✍️ Random  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IsmaSA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### Just codes
 - [European rivers](https://github.com/IsmaSA/European-Rivers-from-milos_agathon) 
